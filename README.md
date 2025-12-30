@@ -15,7 +15,7 @@ I love building clean, modern and responsive web interfaces and improving my ski
   - React ecosystem
   - API integration
   - Performance & animations
-- 🎯 Goal — Become a Professional Frontend Developer
+- 🎯 Goal — Become a full stack Developer
 
 ---
 
